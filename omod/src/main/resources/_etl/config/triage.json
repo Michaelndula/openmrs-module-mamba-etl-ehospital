@@ -1,0 +1,20 @@
+{
+  "report_name": "Triage Report",
+  "flat_table_name": "sjthc_flat_encounter_moh_triage_report",
+  "encounter_type_uuid": "3ccde6e2-9730-46a3-8f69-8a5e0cc48128",
+  "concepts_locale": "en",
+  "table_columns": {
+    "reason_for_visit": "7c972f28-dbdf-4a8a-8b60-937ef2592324",
+    "temperature": "5088AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "pulse_rate": "5087AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "systolic_bp": "5085AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "diastolic_bp": "5086AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "respiratory_rate": "5242AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "oxygen_saturation": "5092AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "weight": "5089AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "height": "5090AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "bmi": "1342AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "muac": "1343AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "triage-notes": "324e55a6-2a39-496a-8e56-54281efcfebd"
+  }
+}
