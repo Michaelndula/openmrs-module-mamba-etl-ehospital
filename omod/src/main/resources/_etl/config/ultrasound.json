@@ -9,6 +9,9 @@
     "date_of_referral": "9a4112f5-5233-49d8-8ccf-c1ffc5ace7a3",
     "in_from": "eb3adf82-dea1-4a97-803c-852f61dec950",
     "out_to": "e133db61-3fb6-44e1-988b-98d8eec0148e",
-    "reason_for_referral": "cebe3be9-7d72-4478-a7e2-015e4ed87f46"
+    "reason_for_referral": "cebe3be9-7d72-4478-a7e2-015e4ed87f46",
+    "relevant_history": "684e52f3-dd08-465b-ac6c-5aca23cb19d9",
+    "services": "a9a88d26-1704-4ddf-9e31-6b137432b60d",
+    "other_exam_procedure_specify": "54653ef2-d689-47bb-9efa-1f4b58220cb3"
   }
 }
