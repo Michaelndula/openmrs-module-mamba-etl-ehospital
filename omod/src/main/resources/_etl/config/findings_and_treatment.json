@@ -1,0 +1,24 @@
+{
+  "report_name": "Findings and Treatment Report",
+  "flat_table_name": "sjthc_flat_encounter_findings_and_treatment_report",
+  "encounter_type_uuid": "f02fecec-4d74-4430-8e59-5150016551e5",
+  "concepts_locale": "en",
+  "table_columns": {
+    "chief_complain": "f3c308eb-224a-4f36-9b1e-bea4b5030eb7",
+    "history_of_presenting_illness": "940e138d-399f-42dc-a28c-1d7709e917cc",
+    "number_of_previous-pregnancies": "9adb2c60-b34d-4c3e-961b-03bd0c581e45",
+    "lmp": "1427AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+    "family_planning": "2eac1d32-0d14-43d7-b188-a6acb215e626",
+    "other_family_planning_specify": "62340009-748b-4b4c-87fa-8d1b2ca96ea0",
+    "obstetrics_and_gynaecology": "d85b298f-2819-49b1-b716-1c0cee69212c",
+    "general_examination": "5d72820a-de18-4de3-bd88-803abc61a0ba",
+    "general_examination_comment": "daf8e0c0-ef5b-4568-8564-6a57358e1756",
+    "systemic_examination": "c0462e9b-d91b-4e14-a249-4120362ad0da",
+    "systemic_examination_comment": "d5771e6e-0f9c-4d3f-b9ab-56e545bc3e10",
+    "investigation": "0e227ebc-186d-48e1-bc2f-6c8e89ca0eaa",
+    "impression_diagnosis": "759bf916-5549-4fe1-a588-a399ba04dfd5",
+    "treatment_plan": "e670dc2a-0c21-4fda-a8df-d9b7b1ca87ec",
+    "tca": "338d28f6-0095-4898-a11f-84bb646e612b",
+    "tca_comment": "d08b33dd-d807-460a-a91e-049c30b7a0aa"
+  }
+}
