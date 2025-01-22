@@ -6,7 +6,7 @@
   "table_columns": {
     "dental_procedure": "d7183d0d-1f07-4dc4-a16a-a66e9e4a22b3",
     "dental_procedure_other_specify": "0e6c3b2e-cd0c-4eb1-a6e8-bdc4855d81d5",
-    "diagnosis": "759bf916-5549-4fe1-a588-a399ba04dfd5",
+    "impression_diagnosis": "759bf916-5549-4fe1-a588-a399ba04dfd5",
     "other_menengitis_specify": "b0fef4a0-a77b-4cce-8a1b-d60d2bcd6e8e",
     "other_diagnosis_specify": "410d7684-2045-4eff-9af3-1fb57a406123",
     "other_convulsive_disorders_specify": "dbab2e3-d47d-49dc-8dbe-e9a83567f230",
