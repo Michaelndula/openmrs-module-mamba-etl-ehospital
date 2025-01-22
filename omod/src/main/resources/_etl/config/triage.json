@@ -1,6 +1,6 @@
 {
   "report_name": "Triage Report",
-  "flat_table_name": "sjthc_flat_encounter_moh_triage_report",
+  "flat_table_name": "ehospital_flat_encounter_moh_triage_report",
   "encounter_type_uuid": "3ccde6e2-9730-46a3-8f69-8a5e0cc48128",
   "concepts_locale": "en",
   "table_columns": {
