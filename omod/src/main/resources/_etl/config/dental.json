@@ -6,6 +6,13 @@
   "table_columns": {
     "dental_procedure": "d7183d0d-1f07-4dc4-a16a-a66e9e4a22b3",
     "dental_procedure_other_specify": "0e6c3b2e-cd0c-4eb1-a6e8-bdc4855d81d5",
+    "diagnosis": "759bf916-5549-4fe1-a588-a399ba04dfd5",
+    "other_menengitis_specify": "b0fef4a0-a77b-4cce-8a1b-d60d2bcd6e8e",
+    "other_diagnosis_specify": "410d7684-2045-4eff-9af3-1fb57a406123",
+    "other_convulsive_disorders_specify": "dbab2e3-d47d-49dc-8dbe-e9a83567f230",
+    "other_bites_specify": "4b503f44-f9ff-4444-a8bd-2c928c3ae5c4",
+    "other_injuries_specify": "7e57cd52-4bd0-45ed-9dd1-582dfe7cad60",
+    "other_respiratory_deseases_specify": "33d8508e-fdf0-499e-bf7a-a8cc2c1be09a",
     "dental_procedure_notes": "ca004964-0fb0-486c-8f23-cc53ed27ece0",
     "findings": "2dd2e395-858b-4754-878c-bc22afe0f3d6"
   }
