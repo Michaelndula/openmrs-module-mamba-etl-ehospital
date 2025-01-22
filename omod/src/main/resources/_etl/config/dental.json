@@ -1,6 +1,6 @@
 {
   "report_name": "Dental Report",
-  "flat_table_name": "sjthc_flat_encounter_dental_report",
+  "flat_table_name": "ehospital_flat_encounter_dental_report",
   "encounter_type_uuid": "83438e95-60ca-4a76-bcca-c05e5734f836",
   "concepts_locale": "en",
   "table_columns": {

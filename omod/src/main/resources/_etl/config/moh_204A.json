@@ -1,6 +1,6 @@
 {
   "report_name": "MOH 204 A Report",
-  "flat_table_name": "sjthc_flat_encounter_moh_204a_report",
+  "flat_table_name": "ehospital_flat_encounter_moh_204a_report",
   "encounter_type_uuid": "f02fecec-4d74-4430-8e59-5150016551e5",
   "concepts_locale": "en",
   "table_columns": {

@@ -1,6 +1,6 @@
 {
   "report_name": "UltraSound Report",
-  "flat_table_name": "sjthc_flat_encounter_ultrasound_report",
+  "flat_table_name": "ehospital_flat_encounter_ultrasound_report",
   "encounter_type_uuid": "001309ab-10e3-4b4d-9706-6982cfabc5fe",
   "concepts_locale": "en",
   "table_columns": {
