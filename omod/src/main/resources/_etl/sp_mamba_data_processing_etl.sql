@@ -1,9 +1,14 @@
--- $BEGIN
--- add base folder SP here --
+DELIMITER //
 
--- Flatten OpenMRS Observational Data
-CALL sp_mamba_data_processing_flatten();
+DROP PROCEDURE IF EXISTS sp_mamba_data_processing_etl;
 
--- Add the implementation-specific ETL processes here
+CREATE PROCEDURE sp_mamba_data_processing_etl(IN etl_incremental_mode INT)
 
--- $END
+BEGIN
+    -- add base folder SP here if any --
+
+    -- Call the implementer ETL process
+
+END //
+
+DELIMITER ;

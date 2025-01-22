@@ -134,6 +134,14 @@
         </dependencies>
     </dependencyManagement>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.mysql</groupId>
+            <artifactId>mysql-connector-j</artifactId>
+            <version>9.0.0</version>
+        </dependency>
+    </dependencies>
+
     <build>
         <pluginManagement>
 
@@ -272,7 +280,7 @@
                                     <argument>-d openmrs</argument>
 
                                     <!-- The target or analysis Database where the ETL data is stored -->
-                                    <argument>-a analysis_db</argument>
+                                    <argument>-a ehospital_etl</argument>
 
                                     <!-- File with a list of all files with stored procedures -->
                                     <!-- Remove this argument after automating core to auto-read this -->
@@ -287,12 +295,6 @@
 
                                     <!-- Set 1 to recompile/build the scripts else 0 - not to. If 1 - don't forget to change the liquibase changeset ID -->
                                     <argument>-b 1</argument>
-
-                                    <!-- Set the concepts locale here -->
-                                    <argument>-l en</argument>
-
-                                    <!-- Set the number of tables before partitioning -->
-                                    <argument>-p 100</argument>
 
                                     <argument/>
 
